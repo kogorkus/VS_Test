@@ -16,7 +16,6 @@ namespace TestApp
             Del MyDel = DoSmth;
             MyDel += DoSmthElse;
             MyDel();
-            int i = 0;
         }
         public static void DoSmth()
         {
